@@ -47,4 +47,4 @@ The application helps users quickly identify nearby PCR services, reducing delay
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/jags-web/SaveLive.git
+   git clone https://github.com/jags-web/SaveLive
