@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SaveLIve</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="naviration_open">Open Navigation drawer</string>
+    <string name="naviration_close">Close Navigator drawer</string>
+
+    <item name="navigateonview" type="id" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps1">MapsActivity1</string>
+</resources>

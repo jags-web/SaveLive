@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495075698757",
+    "project_id": "savelive-4cd57",
+    "storage_bucket": "savelive-4cd57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495075698757:android:29ecc154bf81c1bb9b1b2c",
+        "android_client_info": {
+          "package_name": "com.example.savelive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495075698757-neo4pvjgfli465ptg8ge9n2i0859qpbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeN3fSL6a7Tp8hGeNYVMaV6sLDTLBXXNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495075698757-neo4pvjgfli465ptg8ge9n2i0859qpbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
