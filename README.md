@@ -43,7 +43,7 @@ The application helps users quickly identify nearby PCR services, reducing delay
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository  
    ```bash
